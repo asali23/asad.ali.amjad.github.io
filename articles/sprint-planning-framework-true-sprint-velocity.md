@@ -1,6 +1,6 @@
 ---
 layout: default
-title: True Sprint Velocity: Making Sprint Planning Predictable and Data‑Driven
+title: True Sprint Velocity - Making Sprint Planning Predictable and Data‑Driven
 ---
 
 # True Sprint Velocity: Making Sprint Planning Predictable and Data‑Driven
