@@ -1,3 +1,8 @@
+---
+layout: default
+title: What I Learned From the Best Manager I’ve Ever Had
+---
+
 # What I Learned From the Best Manager I’ve Ever Had
 
 I’ve worked with many managers in my career. Some were competent. Some were brilliant. Some simply managed to keep the team alive.

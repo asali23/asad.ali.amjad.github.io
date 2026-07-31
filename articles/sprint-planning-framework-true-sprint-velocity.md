@@ -1,3 +1,8 @@
+---
+layout: default
+title: True Sprint Velocity - Making Sprint Planning Predictable and Data‑Driven
+---
+
 # True Sprint Velocity: Making Sprint Planning Predictable and Data‑Driven
 
 Most teams I’ve worked with were not *inefficient*. They were *exhausted*.
